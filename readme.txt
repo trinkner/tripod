@@ -9,8 +9,8 @@ Installation
 
 1. Copy the two files to the same directory of your choosing.
 2. Install the following dependencies, if they are not already installed:
-    a. Python 3.5 (already installed in most Linux distros, like Ubuntu)
-    b. Qt framework 4.8  (command line: sudo apt install python3-pyqt4)
+    a. Python 3.5 or greater (already installed in most Linux distros, like Ubuntu)
+    b. Qt framework 5 or greater  (command line: sudo apt install python3-pyqt5)
     c. piexif python module (command line: pip3 install piexif)
     
 To run Tripod, open a terminal window, navigate to the directory where you saved the two Tripod files, and then enter "python3 photoOrgMain.py" (without the quotation marks).
